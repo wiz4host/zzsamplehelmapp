@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  zzmyapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-06T07:36:52.1052293+05:30"
+    description: A Helm chart for Kubernetes
+    digest: c3431b793254cd7054979da68d9f58a77d26fe50d3338db6f60ff617dbe29188
+    name: zzmyapp
+    type: application
+    urls:
+    - https://github.com/wiz4host/zzsamplehelmapp/zzmyapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-06T07:36:52.1042285+05:30"
